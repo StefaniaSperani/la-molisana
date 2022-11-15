@@ -1,6 +1,4 @@
 <template>
-  <!-- <h1>Ciao <i class="fa-solid fa-bell"></i></h1> -->
-  <button class="btn btn-secondary"></button>
   <HeaderComponent />
   <main>
     <ProductList />
